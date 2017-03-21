@@ -4,14 +4,16 @@
     <string name="nom">Nom</string>
     <string name="prenom">Prenom</string>
     <string name="stock">Stocké</string>
-    <string name="visu">Visualisé</string>
+    <string name="visu">Visualiser</string>
     <string name="homme">Homme</string>
     <string name="femme">Femme</string>
-    <string name="annule">Annulé</string>
+    <string name="annule">Annuler</string>
     <string name="genre">Sexe</string>
     <string name="ajout">Ajouter</string>
     <string name="retour">Retour</string>
     <string name="rechercher">Rechercher</string>
     <string name="votre_recherche">Votre Recherche</string>
     <string name="nomBD">nomBD</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="modifier">Modifier</string>
 </resources>

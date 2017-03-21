@@ -8,17 +8,6 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     >
 
-    <ListView
-    android:id="@+id/lview"
-    android:layout_width="wrap_content"
-        android:layout_weight="0.97"
-        android:layout_below="@+id/bAnnule"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_marginTop="20dp"
-        android:layout_height="500dp">
-</ListView>
-
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -52,5 +41,15 @@
         android:layout_toEndOf="@+id/bAjout"
         android:layout_marginLeft="24dp"
         android:layout_marginStart="24dp" />
+
+    <ListView
+    android:id="@+id/lview"
+    android:layout_width="wrap_content"
+        android:layout_weight="0.97"
+        android:layout_height="500dp"
+        android:layout_below="@+id/bAjout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+</ListView>
 
 </RelativeLayout>
